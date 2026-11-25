@@ -12,7 +12,7 @@ exports.config = {
   output: './output',
   helpers: {
     Playwright: {
-      url: 'http://localhost',
+      url: 'https://automationpratice.com.br',
       show: true,
       browser: 'chromium'
     }
@@ -20,5 +20,5 @@ exports.config = {
   include: {
     I: './steps_file.js'
   },
-  name: 'Projeto1'
+  name: 'codeceptjs-web'
 }
