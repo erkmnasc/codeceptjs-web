@@ -35,5 +35,5 @@ npx codeceptjs run --grep @sucesso
 
 ## CI
 
-O GitHub Actions roda os testes em modo headless a cada push na `main`, em
+O GitHub Actions roda os testes em modo headless a cada push na `master`, em
 pull requests e manualmente (`.github/workflows/ci.yml`).
