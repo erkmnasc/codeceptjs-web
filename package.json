@@ -10,8 +10,13 @@
   "author": "Erick Nascimento",
   "license": "MIT",
   "devDependencies": {
-    "codeceptjs": "^3.7.9",
+    "codeceptjs": "^4.2.5",
     "cross-env": "^10.1.0",
     "playwright": "^1.65.1"
+  },
+  "overrides": {
+    "uuid": "^11.1.1",
+    "glob": "^14.0.6",
+    "minimatch": "^11.0.9"
   }
 }
