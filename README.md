@@ -18,7 +18,7 @@ Arquivo `login_test.js`:
 
 ## Como rodar
 
-Precisa de Node.js 18 ou mais novo.
+Precisa de Node.js 20 ou mais novo.
 
 ```bash
 npm install
